@@ -1,0 +1,11 @@
+.expanded .mobile-menu {
+  display: flex;
+}
+
+.nav-inner.expanded .close-icon {
+  display: block;
+}
+
+.nav-inner.expanded .burger-icon {
+  display: none;
+}
